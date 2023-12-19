@@ -1,14 +1,18 @@
 ### To-do-list API using Node Express MongoDB
 
-1. Initialiser le projet avec **`node`**
+1. Initialiser **`yarn`**`
 
         yarn init
 
->2. **`yarn install`** \
- pour installer tous les packages présents dans le fichier package.json
+2. Installer les dépendances
 
+        yarn install
 
-<font size=5> ou </font>
+3. Démarrer le serveur
+
+        yarn start
+
+# ou
 
 2. Installer le framework **`express`** pour créer l'application
 
@@ -42,3 +46,6 @@
 
         yarn add multer
 
+10. Démarrer le serveurs
+
+        yarn start
